@@ -1,3 +1,5 @@
+![Dashboard Preview](Job_Market_Analysis_PowerBI.pbix.jpeg)
+
 # Job Market Analysis Dashboard
 
 ## Objective
@@ -28,3 +30,4 @@ To analyze job market trends using real job listing data and identify in-demand 
 - cleaned_naukri_job_market.xlsx – Cleaned dataset
 - project.ipynb – Python data cleaning & analysis
 - job_market_data.sql – SQL queries
+
